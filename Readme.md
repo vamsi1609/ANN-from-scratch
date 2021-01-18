@@ -1,1 +1,1 @@
-# Implementation of ANN using only numpy
+# Implementation of ANN from scratch using Numpy
